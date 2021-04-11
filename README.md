@@ -1,4 +1,4 @@
-ArrayList Class from scratch
+Java ArrayList Class from scratch
 
 Methods:
 Add()
