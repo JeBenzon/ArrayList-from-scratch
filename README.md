@@ -1,3 +1,4 @@
-Halvfærdig hjemmelavet ArrayList :D 
+ArrayList Class from scratch
 
-Add() virker så man kan tilføje memberPlayer Objecter. 
+Methods:
+Add()
